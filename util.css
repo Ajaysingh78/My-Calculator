@@ -1,0 +1,45 @@
+.text-center{
+    text-align: center;
+}
+
+.yellocolor{
+    background-color: rgb(235, 175, 11);
+}
+.whitecolor
+{
+    background-color: azure;
+}
+.blackcolor{
+    color: black;
+}
+
+
+.container{
+  
+    border-radius: 22px;
+    background-color: rgb(9, 3, 3);
+    
+    row-gap: 10px;
+    width: 300px;
+    height: 500px;
+    /* padding: 26px; */
+   
+ 
+}
+.mx-auto{
+    margin:auto;
+
+}
+.flex{
+   display: flex;
+
+}
+.flex-col{
+     flex-direction: column;
+    
+
+}
+.item-center{
+   
+    align-items: center;
+}
